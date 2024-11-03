@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "title": "Jekyll Project",
+      "body": "Some text about this project",
+      "thumb": "images/thumb1.jpg",
+      "img": "",
+      "id": 1
+    },
+    {
+      "title": "Fashion Page",
+      "body": "Some text about this project",
+      "thumb": "images/thumb2.jpg",
+      "img": "",
+      "id": 2
+    },
+    {
+      "title": "ToDo Web",
+      "body": "Some text about this project",
+      "thumb": "images/thumb3.jpg",
+      "img": "",
+      "id": 3
+    },
+    {
+      "title": "Parallaxing",
+      "body": "Some text about this project",
+      "thumb": "images/thumb4.jpg",
+      "img": "",
+      "id": 4
+    },
+    {
+      "title": "Improved Site",
+      "body": "Some text about this project",
+      "thumb": "images/thumb5.jpg",
+      "img": "",
+      "id": 5
+    },
+    {
+      "title": "Drivr",
+      "body": "Some text about this project",
+      "thumb": "images/thumb6.png",
+      "img": "",
+      "id": 6
+    },
+    {
+      "title": "My Portfolio",
+      "body": "Some text about this project",
+      "thumb": "images/thumb7.png",
+      "img": "",
+      "id": 7
+    },
+    {
+      "title": "React TMDB",
+      "body": "Some text about this project",
+      "thumb": "images/thumb8.png",
+      "img": "",
+      "id": 8
+    },
+    {
+      "title": "Jekyll & Sass Portfolio",
+      "body": "Some text about this project",
+      "thumb": "images/thumb9.jpg",
+      "img": "",
+      "id": 9
+    }
+  ]
+}
